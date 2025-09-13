@@ -1,4 +1,4 @@
-package Day_1;
+package day1;
 
 public class Hello_World 
 {
@@ -7,3 +7,4 @@ public class Hello_World
 	}
 
 }
+
