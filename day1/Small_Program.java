@@ -1,4 +1,4 @@
-package Day_1;
+package day1;
 
 public class Small_Program 
 {
@@ -11,3 +11,4 @@ public class Small_Program
 	}
 
 }
+
